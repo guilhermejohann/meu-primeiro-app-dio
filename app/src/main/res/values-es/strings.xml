@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="txt">Esta es mi primera solicitud internacional. Esta aplicación tiene textos en inglés, portugués y español.</string>
+    <string name="conf">Para ver los cambios, simplemente cambia el idioma del celular en la configuración.</string>
+</resources>
